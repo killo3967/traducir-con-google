@@ -39,7 +39,7 @@ for ( $i = 1 ; $i -lt $array_fichero.length ; $i++ ) {
         read-host "Press ENTER to continue..."
 
     }
-    # Comentario para probar git
+    # Comentario para probar git remoto
     
 }
             
